@@ -2,6 +2,8 @@ https://sub.sharecentre.online/sub
 https://sub.sharecentre.online/sub
 https://bulinkbulink.com/freefq/free/master/v2
 https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://proxypool.link/clash/config
+https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
 https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 https://freemc.mcsslk.xyz/0ZnQfjQ
 https://ablnk.absslk.xyz/GGZ2e4k
